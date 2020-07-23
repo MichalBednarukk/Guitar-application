@@ -49,7 +49,7 @@ public class RegisterGui extends VerticalLayout {
                 if (passwordField.getValue().equals(passwordFieldConfirm.getValue())) {
                     UserApp userApp = new UserApp(textFieldUsername.getValue(), passwordEncoder().encode(passwordField.getValue()), "ROLE_USER");
 
-                    if (userService.userRegister(userApp).getStatusCodeValue() == 200) {
+                    if (this.userService.userRegister(userApp).getStatusCodeValue() == 200) {
                         Notification notification = new Notification(
                                 "Register Succesfully", 3000,
                                 Notification.Position.TOP_START);
@@ -79,21 +79,21 @@ public class RegisterGui extends VerticalLayout {
 
     public void initialize() {
 
-        this.verticalLayout = new VerticalLayout();
+        verticalLayout = new VerticalLayout();
 
-        this.label = new Label("Registration");
+        label = new Label("Registration");
 
-        this.textFieldUsername = new TextField("Username", "Enter username");
-        this.textFieldUsername.setRequired(true);
+        textFieldUsername = new TextField("Username", "Enter username");
+        textFieldUsername.setRequired(true);
 
-        this.passwordField = new PasswordField("Password", "Enter password");
-        this.passwordField.setValue("Password");
+        passwordField = new PasswordField("Password", "Enter password");
+        passwordField.setValue("Password");
 
 
-        this.passwordFieldConfirm = new PasswordField("Reapeat Password", "Repeat password");
-        this.passwordFieldConfirm.setValue("Password");
+        passwordFieldConfirm = new PasswordField("Reapeat Password", "Repeat password");
+        passwordFieldConfirm.setValue("Password");
 
-        this.buttonRegister = new Button("Register");
+        buttonRegister = new Button("Register");
 
         Notification notification = new Notification(
                 "Username and Password required", 3000,

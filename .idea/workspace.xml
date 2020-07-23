@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57f9babe-683c-4118-9afc-3b4104234185" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/guitar/UserDetailsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/guitar/UserDetailsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/guitar/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/guitar/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/guitar/entity/TrackApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/guitar/entity/TrackApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/guitar/entity/UserApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/guitar/entity/UserApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/guitar/gui/HomeGui.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/guitar/gui/HomeGui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/guitar/gui/RegisterGui.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/guitar/gui/RegisterGui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/guitar/gui/TrackAddGui.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/guitar/gui/TrackAddGui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/guitar/gui/TrackGetGui.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/guitar/gui/TrackGetGui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/guitar/repository/TrackRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/guitar/repository/TrackRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/guitar/service/TrackService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/guitar/service/TrackService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/guitar/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/guitar/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cojnFD1eaEhmWbmRgWD6MWTMgz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/crm-tutorial-03-database-and-backend/crm-tutorial-03-database-and-backend" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Michal\Desktop\guitar\src\main\java\com\example\guitar" />
+      <recent name="C:\Users\Michal\Desktop\guitar\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="GuitarApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.guitar.GuitarApplication" />
+      <module name="guitar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.guitar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GuitarApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57f9babe-683c-4118-9afc-3b4104234185" name="Default Changelist" comment="" />
+      <created>1591202004873</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591202004873</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Guitar-application" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="274" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1595533983104">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="274" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595533983104" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591206049108">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591206049108" />
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1595530724167">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1595530724167" />
+    <state x="1361" y="303" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1591436673140">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1361" y="303" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591436673140" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1591206372262">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591206372262" />
+    <state x="387" y="317" key="FileChooserDialogImpl" timestamp="1591436876170">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="387" y="317" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591436876170" />
+    <state width="1876" height="376" key="GridCell.Tab.0.bottom" timestamp="1595537038939">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="376" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595537038939" />
+    <state width="1876" height="376" key="GridCell.Tab.0.center" timestamp="1595537038939">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="376" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595537038939" />
+    <state width="1876" height="376" key="GridCell.Tab.0.left" timestamp="1595537038939">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="376" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595537038939" />
+    <state width="1876" height="376" key="GridCell.Tab.0.right" timestamp="1595537038939">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="376" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595537038939" />
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1595423591897">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595423591897" />
+    <state width="1876" height="342" key="GridCell.Tab.1.center" timestamp="1595423591897">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595423591897" />
+    <state width="1876" height="342" key="GridCell.Tab.1.left" timestamp="1595423591897">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595423591897" />
+    <state width="1876" height="342" key="GridCell.Tab.1.right" timestamp="1595423591897">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595423591897" />
+    <state x="461" y="151" key="SettingsEditor" timestamp="1591436402757">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591436402757" />
+    <state x="655" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1595528310010">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595528310010" />
+    <state x="342" y="214" key="new project wizard" timestamp="1593969896949">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="214" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1593969896949" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1595410570471">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595410570471" />
+  </component>
+  <component name="com.vaadin.designer2.intellij.settings.SizePresetsSettingsComponent">
+    <option name="sizePresets">
+      <list>
+        <SizePreset>
+          <option name="caption" value="Phone" />
+          <option name="height" value="568" />
+          <option name="width" value="320" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Tablet" />
+          <option name="height" value="1024" />
+          <option name="width" value="768" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Desktop" />
+          <option name="height" value="900" />
+          <option name="width" value="1440" />
+        </SizePreset>
+      </list>
+    </option>
+  </component>
+</project>

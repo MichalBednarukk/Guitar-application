@@ -5,6 +5,7 @@ import lombok.*;
 import javax.persistence.*;
 import java.time.LocalDate;
 
+@Table
 @NoArgsConstructor
 @AllArgsConstructor
 @RequiredArgsConstructor
@@ -24,8 +25,13 @@ public class TrackApp {
     private String name;
 
     @NonNull
+    @Column(columnDefinition = "LONGTEXT")
     private String body;
 
     @NonNull
     private LocalDate addDate;
+
+    public String getUsername() {
+        return user.getUsername();
+    }
 }

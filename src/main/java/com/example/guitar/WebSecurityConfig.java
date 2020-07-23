@@ -10,6 +10,7 @@ import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
+import org.springframework.security.web.util.matcher.AntPathRequestMatcher;
 
 
 @Configuration
@@ -41,15 +42,28 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
 //                .and()
 //                .csrf().disable();
 //    }
+
 @Override
 protected void configure(HttpSecurity http) throws Exception {
+        try{
     http.authorizeRequests()
             .antMatchers("/registry").permitAll()
+            .antMatchers("/trackadd").authenticated()
+            .and()
+            .logout()
             .and()
             .formLogin().permitAll()
             .and()
             .csrf().disable();
+
 }
+        catch (Exception e){
+            e.getMessage();
+        }
+    }
+
+
+
 
     @Bean
     public PasswordEncoder passwordEncoder() {
